@@ -1,4 +1,4 @@
-# Flipper-0
+# Flipper-Zero
 
 
 
