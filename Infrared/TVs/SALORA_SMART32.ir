@@ -1,0 +1,64 @@
+Filetype: IR signals file
+Version: 1
+# GITHUB: Ski11-pro
+
+# 
+name: Power
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 0C 00 00 00
+# 
+name: Vol+
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 10 00 00 00
+# 
+name: Vol-
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 11 00 00 00
+# 
+name: Mute
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 0D 00 00 00
+# 
+name: UP
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 14 00 00 00
+# 
+name: DOWN
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 13 00 00 00
+# 
+name: LEFT
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 15 00 00 00
+# 
+name: RIGHT
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 16 00 00 00
+# 
+name: OK
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 35 00 00 00
+# 
+name: Netflix_button
+type: parsed
+protocol: RC5
+address: 01 00 00 00
+command: 27 00 00 00
